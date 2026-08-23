@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693115835810",
+    "project_id": "autisense-1aa08",
+    "storage_bucket": "autisense-1aa08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693115835810:android:2c23047af7e74cf8250efb",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-hXQgbkowtrCgLIbYghVQ54yTzjWkDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
