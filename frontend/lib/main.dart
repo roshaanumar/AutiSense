@@ -17,7 +17,7 @@ class AutiSenseApp extends StatelessWidget {
   const AutiSenseApp({super.key});
 
   Future<Map<String, dynamic>> fetchBackendMessage() async {
-    final response = await http.get(Uri.parse('http://127.0.0.1:8000/'));
+    final response = await http.get(Uri.parse('https://autisense-backend-m4du.onrender.com/'));
     return jsonDecode(response.body);
   }
 
